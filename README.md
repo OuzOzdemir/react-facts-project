@@ -1,2 +1,2 @@
 # navbar and main is recreated according to figma design
-# https://www.figma.com/file/xA1rJVQOorqMW6xjGdBLcI/ReactFacts?node-id=0%3A4&t=hGb2xJIbJBD9NNyG-0
+# https://www.figma.com/file/Gr6XlycBXD61F8ML4ULfLc/recreating-the-figma-navbar-and-main?t=BbRMqtx6mKbSmy63-0
