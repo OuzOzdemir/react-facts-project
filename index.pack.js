@@ -554,7 +554,7 @@ function Navbar() {
         _react2.default.createElement(
             "h4",
             { className: "nav--title" },
-            "React Course - Project 1"
+            "React Project 1"
         )
     );
 }
